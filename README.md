@@ -21,4 +21,4 @@ Map labeling is a classic NP-hard problem in cartography. This project explores 
 - **Concepts:** Spatial Hashing, AABB Collision Detection
 
 ---
-Melih Levent Aslan | M.Sc. Student, University of Bonn
+*Melih Levent Aslan | M.Sc. Geodetic Engineering Student, University of Bonn*
